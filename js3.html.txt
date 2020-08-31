@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Array</h2>
+
+<p id="demo"></p>
+
+<script>
+  var y = [1,2,3,4,5];
+  var x = y.toString(y[3]);
+  
+document.getElementById("demo").innerHTML = x[3];
+</script>
+
+</body>
+</html>
