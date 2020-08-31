@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Math Functions</h2>
+
+<script>
+    var a = Math.pow(8,2);
+    document.write("The power of a is : " +a);
+    document.write("<br>"); 
+    
+    var a = Math.abs(81);
+    document.write("The square-root of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.abs(-7.5);
+    document.write("The absolute value of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.abs(-7.5);
+    document.write("The power of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.random();
+    document.write("The random number is : " +a);
+    document.write("<br>");
+    
+    var a = Math.ceil(-8.6);
+    document.write("The ceil value of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.floor(-6.2);
+    document.write("The floor value of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.tan(60);
+    document.write("Tan of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.cos(30);
+    document.write("cos of a is : " +a);
+    document.write("<br>");
+    
+    var a = Math.sin(45);
+    document.write("sin of a is : " +a);
+    document.write("<br>");   
+</script>
+
+</body>
+</html>
+
+
+
+
